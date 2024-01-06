@@ -3,6 +3,15 @@
 
 List of config files and modifications done so I don't have to save STLs on my local drive.
 
+Slicing with:
++ [Orcaslicer](https://github.com/SoftFever/OrcaSlicer)
+
+Klipper Setup:
++ Mainsail
++ [KAMP](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
++ [Gab3d Utilities](https://github.com/gab-3d/Gab3d-Klipper-Utilities)
++ [Crowsnest](https://github.com/mainsail-crew/crowsnest)
+
 Usually printing:
 
 + Inland Spooless PLA+
